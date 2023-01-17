@@ -106,11 +106,11 @@ creating new frameworks and development approaches. And that's what fascinates m
 
 ---
 
-### Contacts:
+## Contacts:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) audi2014@gmail.com](mailto:audi2014@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) t.me/x0057b8_ffd700](https://t.me/x0057b8_ffd700)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) t.me/x<span style="color:#0057b8">0057b8</span>_<span style="color:#ffd700">ffd700</span>](https://t.me/x0057b8_ffd700)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit) linkedin.com/in/artur-perepelytsa-412622173](https://www.linkedin.com/in/artur-perepelytsa-412622173/)
 
