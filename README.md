@@ -1,15 +1,5 @@
 ## Artur Perepelytsa
 
-### Contacts:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) audi2014@gmail.com](mailto:audi2014@gmail.com)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) t.me/x0057b8_ffd700](https://t.me/x0057b8_ffd700)
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit) linkedin.com/in/artur-perepelytsa-412622173](https://www.linkedin.com/in/artur-perepelytsa-412622173/)
-
----
-
 I am a Full-stack developer.
 I've come a long way from a mobile/game developer to a full-stack engineer in node.js ecosystem.
 Compared to other ecosystems, community of web developers is constantly growing, experimenting,
@@ -114,4 +104,14 @@ creating new frameworks and development approaches. And that's what fascinates m
 - Experience
     - 🙀Got my first commercial software development experience.
 
+---
 
+### Contacts:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) audi2014@gmail.com](mailto:audi2014@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) t.me/x0057b8_ffd700](https://t.me/x0057b8_ffd700)
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit) linkedin.com/in/artur-perepelytsa-412622173](https://www.linkedin.com/in/artur-perepelytsa-412622173/)
+
+<img src="./photo.jpg" height="256px" alt="photo">
