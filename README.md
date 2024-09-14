@@ -116,6 +116,6 @@ creating new frameworks and development approaches. And that's what fascinates m
 </span>
 ](https://t.me/x0057b8_ffd700)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit) linkedin.com/in/artur-perepelytsa-412622173](https://www.linkedin.com/in/artur-perepelytsa-412622173/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit) linkedin.com/in/artur-perepelytsia-412622173](https://www.linkedin.com/in/artur-perepelytsia-412622173/)
 
 <img src="./photo.jpg" height="256px" alt="photo">
