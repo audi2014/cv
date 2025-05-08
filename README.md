@@ -28,6 +28,7 @@ creating new frameworks and development approaches. And that's what fascinates m
 
 | Name                                                                       | Description                                                                                                                                                                           | Tech/tools                                                               |
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **[Hive](https://hive.com/)** | A large flexible project management platform | OpenAI Assistants API, React, NodeJs, GQL, Meteor
 | **[OpenGeeksLab](https://opengeekslab.com/) team outsource project (NDA)** | A super cool platform for drivers and fleets, who are looking for each other. Like Upwork for drivers with trucks. Have a separate functionality for Drivers, Fleets, and Admin panel | TS, ReactJs, React-Native, Mui, NestJs, Mongoose, AWS, RtkQuery, Segment |
 | **[Queen Car](https://app.queencar.ca/)**                                  | Taxi service in Jordan and several other countries. Mobile apps for customers and drivers like Uber                                                                                   | Objective-C/Swift, Java/Kotlin, Node.Js, express                         |
 | **Terox 🪦**                                                               | Music Distribution Service                                                                                                                                                            | PHP 7.3, slimframework 4                                                 |
@@ -37,6 +38,22 @@ creating new frameworks and development approaches. And that's what fascinates m
 | ...                                                                        | And many others                                                                                                                                                                       | Unity, Cocos2d/Cocos2dx, Objective-C, C#                                 |
 
 ## Work Experience
+
+**[Apiko](https://apiko.com/)** (Feb 2022 - Present) Full-stack developer (React, node.js, GQL, Meteor)
+
+- Responsibilities
+    - Conducting interviews
+    - Dev speccing
+    - Code review
+    - Improving the existing code base
+    - Integration of large language models
+    - Creation and expansion of a flexible system for building and supporting flexible analytics tools (charts, pivot tables)
+    - Development of the client and server modules of the web application. Development of a desktop application.
+- Experience
+    - Got familiar with the [GQL/Apollo stack](https://www.apollographql.com/)
+    - [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview)
+    - [Meteor framework](https://www.meteor.com/)
+    - Gained experience working in a large product company
 
 **[OpenGeeksLab](https://opengeekslab.com/)** (Aug 2020 - Dec 2022) Team lead (React-Native/Full-stack node.js)
 
