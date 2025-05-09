@@ -47,7 +47,7 @@ creating new frameworks and development approaches. And that's what fascinates m
     - Code review
     - Improving the existing code base
     - Integration of large language models
-    - Creation and expansion of a flexible system for building and supporting flexible analytics tools (charts, pivot tables)
+    - Development and support of system for building flexible analytics tools (charts, pivot tables)
     - Development of the client and server modules of the web application. Development of a desktop application.
 - Experience
     - Got familiar with the [GQL/Apollo stack](https://www.apollographql.com/)
